@@ -41,12 +41,14 @@ public:
 	//청소 함수
 	void sweep();
 
-	//레벨 업
-	void lvlup();
+	//알
+	void egg();
+
+
 
 	player();
 	~player();
-
+	
 
 };
 
